@@ -1,0 +1,10 @@
+[package]
+name = "barcode-engine"
+version = "0.1.0"
+authors = ["kopis8 <paul-oj@hotmail.co.uk>"]
+edition = "2018"
+
+[dependencies]
+barcoders = "0.10.0"
+qrcode = "0.9.0"
+qrcode-generator = "1.0.4"
